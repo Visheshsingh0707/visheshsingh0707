@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshsingh0707&label=Profile%20views&color=0e75b6&style=flat" alt="visheshsingh0707" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visheshsingh0707" alt="visheshsingh0707" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **visheshsingh7700@gmail.com**
