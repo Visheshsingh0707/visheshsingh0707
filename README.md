@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshsingh0707&label=Profile%20views&color=0e75b6&style=flat" alt="visheshsingh0707" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b9525jyet4wphriqvekbc501ikbvwfywunyah77ep3p7&ep=v1_gifs_search&rid=200w.gif&ct=g">
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **visheshsingh7700@gmail.com**
